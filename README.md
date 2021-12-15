@@ -6,7 +6,7 @@
 
 - 🛡️ Atualmente trabalhando  como Analista de Dados;
 - 🎓 Cursando 4º periodo de Engenharia de Software na Faculdade de Indústria/IEL de São José dos Pinhais;
-- 💻 Estudando BackEnd e FrontEnd.
+- 💻 Estudando Back-End e Front-End.
 <div>
  <br>
 <div align="center">
