@@ -5,7 +5,7 @@
 ## Olá eu sou a Eduardo Nagabe, estudante de programação e amante da tecnologia!
 
 - 🛡️ Atualmente trabalhando  como Analista de Dados;
-- 🎓 Cursando 4º periodo de Engenharia de Software na Faculdade de Indústria/IEL de São José dos Pinhais;
+- 🎓 Cursando 5º periodo de Engenharia de Software na Faculdade de Indústria/IEL de São José dos Pinhais;
 - 💻 Estudando Back-End e Front-End.
 <div>
  <br>
